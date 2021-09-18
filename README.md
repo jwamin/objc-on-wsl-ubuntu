@@ -1,4 +1,4 @@
-# Objective C in WSL Ubuntu Linus
+# Objective C in WSL Ubuntu Linux
 
 Install swift to get clang
 
